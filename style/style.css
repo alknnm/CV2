@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+
+header {
+    width: 1200px;
+}
+
+.name {
+    background-color: #99999970;
+    padding: 20px;
+}
+
+.name h2 {
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.profession {
+    background-color: #99999950;
+    padding: 20px;
+}
+
+.profession h3 {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.name_avatar_wrapper {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+}
+
+.name_profession {
+    width: 1200px;
+}
+
+.avatar {
+    width: 300px;
+}
+
+.main {
+    display: flex;
+    width: 1200px;
+    flex-direction: row;
+}
+
+.contact {
+   padding: 44px;
+   background-color: #99999950;
+   color: black
+}
+
+hr {
+    color: red;
+    width: 1200px;
+    border: 0px;
+    height: 1px;
+}
+
+

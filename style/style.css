@@ -13,6 +13,7 @@ header {
 .name {
     background-color: #99999970;
     padding: 20px;
+    height: 235px;
 }
 
 .name h2 {
@@ -26,10 +27,11 @@ header {
     padding: 20px;
 }
 
-.profession h3 {
+.name h3 {
     text-align: center;
     font-size: 30px;
     text-transform: uppercase;
+    padding-top: 40px;
 }
 
 .name_avatar_wrapper {
@@ -53,16 +55,10 @@ header {
 }
 
 .contact {
-   padding: 44px;
+   padding: 45px;
    background-color: #99999950;
    color: black
 }
 
-hr {
-    color: red;
-    width: 1200px;
-    border: 0px;
-    height: 1px;
-}
 
 
